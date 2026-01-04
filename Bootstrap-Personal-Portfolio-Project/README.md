@@ -1,16 +1,8 @@
-# Harshini Patalam - Space Portfolio 🚀
+# Bootstrap - Personal Portfolio Mini Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A responsive personal portfolio website with a retro space theme, built to showcase my skills in front-end development.
-
----
-
-## ✨ Live Demo
-
-You can view the deployed version of the project here:
-
-**(https://harshiniii-14.github.io/personal-portfolio/)**
 
 ---
 
@@ -40,27 +32,5 @@ The project was created using the following technologies:
 * **Project Showcase Gallery:** A dedicated area to feature past and future work with descriptions.
 * **Experience & Education Timeline:** An interactive timeline to showcase my professional and academic journey.
 * **Comprehensive Footer:** Includes social media links and contact information.
-
-<img width="1898" height="706" alt="image" src="https://github.com/user-attachments/assets/03b05eaa-015e-4ccf-a8ef-e37693c2ec1d" />
-<img width="1900" height="492" alt="image" src="https://github.com/user-attachments/assets/cfd56660-27c1-44b3-ba01-3a4e818da2b3" />
-<img width="1888" height="941" alt="image" src="https://github.com/user-attachments/assets/86542855-fd78-4e61-8426-2bbbfe51e552" />
-<img width="1894" height="702" alt="image" src="https://github.com/user-attachments/assets/ee69e1ce-3a51-42b1-a0bc-920b91adf580" />
-<img width="1892" height="190" alt="image" src="https://github.com/user-attachments/assets/a512585e-0e27-46b7-bbd2-f4310466d3cb" />
-
----
-
-##  Cloning the project
-
-To get a local copy up and running, follow these simple steps.
-
-1.  Clone the repository:
-    ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    ```
-2.  Navigate to the project directory:
-    ```sh
-    cd your-repo-name
-    ```
-3.  Open `index.html` in your browser.
 
 ---
