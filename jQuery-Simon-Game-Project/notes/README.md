@@ -113,6 +113,8 @@ $(".btn").click(function() {
 * Clean event handling
 * Cross-browser compatibility
 
+> https://docs.google.com/document/d/1EyWiOvX3lNaW8g4_Ufh85IP2xe6h8N2B3lnlIi7PaZ8/edit?tab=t.0#heading=h.eeqv5vujdsp6
+
 ---
 
 📘 These notes act as a **quick-reference guide** when building jQuery-based projects.
